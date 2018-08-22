@@ -1,0 +1,10 @@
+{
+  "shiftlevels": ["Control"],
+  "keys": [
+    {"pos": "[",     "letters": ["\u001b"]},
+    {"pos": "]",     "letters": ["\u001d"]},
+    {"pos": "\\",    "letters": ["\u001c"]},
+    {"pos": "Iso",   "letters": ["\u001c"]},
+    {"pos": "Space", "letters": [" "]}
+  ]
+}
