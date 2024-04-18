@@ -3,7 +3,7 @@
   "keys": [
     {"pos": "6", "letters": [ "cdk:circumflex", "cdk:caron" ], "capslock": false},
     {"pos": "7", "letters": [ "cdk:overdot", "cdk:overbar" ],  "capslock": false},
-    {"pos": "-", "letters": [ "cdk:symbol", "№" ],            "capslock": false},
+    {"pos": "-", "letters": [ "cdk:symbol", "№" ],             "capslock": false},
     {"pos": "'", "letters": [ "cdk:acute", "cdk:umlaut" ],     "capslock": false},
     {"pos": "~", "letters": [ "cdk:grave", "cdk:tilde" ],      "capslock": false},
     {"pos": "M", "letters": [ "cdk:greek", "cdk:math" ],       "capslock": true}
@@ -123,7 +123,7 @@
     },
     {
       "name": "symbol",
-      "baseChar": "©",
+      "baseChar": "¬",
       "stringMap": [
         [ "=", "↔" ],
         [ "n", "↙" ],
@@ -131,7 +131,7 @@
         [ "m", "↘" ],
         [ "h", "←" ],
         [ "j", "↓" ],
-        [ "s", "℠" ],
+        [ "s", "§" ],
         [ "l", "→" ],
         [ "k", "↑" ],
         [ "r", "®" ],
@@ -139,11 +139,12 @@
         [ "u", "↖" ],
         [ "i", "↗" ],
         [ "t", "™" ],
-        [ "4", "⅓" ],
+        [ "6", "¾" ],
+        [ "4", "¼" ],
         [ "5", "⅔" ],
         [ "2", "½" ],
-        [ "3", "¾" ],
-        [ "1", "¼" ],
+        [ "3", "⅓" ],
+        [ "1", "№" ],
         [ "+", "⇔" ],
         [ "N", "⇙" ],
         [ "M", "⇘" ],
@@ -153,8 +154,8 @@
         [ "K", "⇑" ],
         [ "U", "⇖" ],
         [ "I", "⇗" ],
-        [ "©", "©" ],
-        [ " ", "©" ]
+        [ "T", "℠" ],
+        [ " ", "¬" ]
       ]
     },
     {
