@@ -1,9 +1,9 @@
 {
   "fullName": "EurKEY Keyboard Layout",
   "name": "eurkey",
-  "copyright": "Steffen Brüntjen 2008-2018, Vincent de Lau 2018",
+  "copyright": "Steffen Brüntjen 2008-2018, Vincent de Lau 2018-2024",
   "localeId": "00000409",
-  "version": "0.1 (targeting 1.3)",
+  "version": "0.2 (targeting 1.3)",
   "shiftlevels": [ "None", "Shift" ],
   "keys": [
     { "pos": "1", "shortcutPos": "1", "letters": [ "1", "!" ], "capslock": false },
